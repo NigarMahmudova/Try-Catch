@@ -1,0 +1,14 @@
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\bin\Debug\netcoreapp3.1\Academy tasks 9.exe
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\bin\Debug\netcoreapp3.1\Academy tasks 9.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\bin\Debug\netcoreapp3.1\Academy tasks 9.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\bin\Debug\netcoreapp3.1\Academy tasks 9.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\bin\Debug\netcoreapp3.1\Academy tasks 9.dll
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\bin\Debug\netcoreapp3.1\Academy tasks 9.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\obj\Debug\netcoreapp3.1\Academy tasks 9.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\obj\Debug\netcoreapp3.1\Academy tasks 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\obj\Debug\netcoreapp3.1\Academy tasks 9.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\obj\Debug\netcoreapp3.1\Academy tasks 9.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\obj\Debug\netcoreapp3.1\Academy tasks 9.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\obj\Debug\netcoreapp3.1\Academy tasks 9.dll
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\obj\Debug\netcoreapp3.1\Academy tasks 9.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\10. 01022023\Academy tasks 9\Academy tasks 9\obj\Debug\netcoreapp3.1\Academy tasks 9.genruntimeconfig.cache
